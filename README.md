@@ -1,6 +1,8 @@
 # Eyes-Classification-to-determine-gender
 The goal of the project is to implement a classifier using a Neural network using Keras Framework to determine gender by eye.
 
+Here is the link top the dataset: https://www.kaggle.com/datasets/pavelbiz/eyes-rtte
+
 
 Here are the steps I have followed:
 
